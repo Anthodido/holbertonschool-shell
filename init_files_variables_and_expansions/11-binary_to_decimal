@@ -1,2 +1,3 @@
 #!/bin/bash
-$((10#BINARY))
+echo $(( 10#BINARY ))
+
